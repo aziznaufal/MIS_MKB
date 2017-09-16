@@ -1,0 +1,54 @@
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\KmbMember.exe.config
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\KmbMember.exe
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\KmbMember.pdb
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.csprojResolveAssemblyReference.cache
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.loginfrm.resources
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.Properties.Resources.resources
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.csproj.GenerateResource.Cache
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.exe
+c:\users\aziz naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.pdb
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.ShowDataMember.resources
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.DataCollege.resources
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.DataMember.resources
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\Npgsql.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\Npgsql.xml
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\ExcelDataReader.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\ClosedXML.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\FastMember.Signed.dll
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\ClosedXML.xml
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\KmbMember.exe.manifest
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\bin\Debug\KmbMember.application
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.exe.manifest
+C:\Users\Aziz Naufal\documents\visual studio 2017\Projects\KmbMember\KmbMember\obj\Debug\KmbMember.application
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\KmbMember.exe.config
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\KmbMember.exe.manifest
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\KmbMember.application
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\KmbMember.exe
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\KmbMember.pdb
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\ClosedXML.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\ExcelDataReader.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\FastMember.Signed.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\Microsoft.Office.Excel.Server.Udf.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\Npgsql.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\ClosedXML.xml
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\Npgsql.xml
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.csprojResolveAssemblyReference.cache
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.DataCollege.resources
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.DataMember.resources
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.loginfrm.resources
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.Properties.Resources.resources
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.ShowDataMember.resources
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.csproj.GenerateResource.Cache
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.exe.manifest
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.application
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.exe
+C:\Users\Aziz Naufal\Documents\coding\KmbMember\KmbMember\obj\Debug\KmbMember.pdb
